@@ -7,5 +7,6 @@ int main()
 	printf("adding newline\n");
 	printf("4th line adding\n");
 	printf("add 1\n");
+	printf("add 2\n");
 	return 0;
 }
